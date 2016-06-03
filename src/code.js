@@ -25,3 +25,5 @@ var newFunction = function(){
 }
 
 var cc = 3;
+
+var dd;
