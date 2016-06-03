@@ -13,9 +13,9 @@ function asd(){ return 123}
 
 function ccc(){};
 
-function caca(){
+function cacados(){
 	
-	console.log('tengo caca')
+	console.log('tengo mas caca');
 }
 
 var newFunction = function(){
