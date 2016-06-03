@@ -9,3 +9,5 @@ function(){
 var bb = 123;
 
 function asd(){ return 123}
+
+function ccc(){};
