@@ -21,7 +21,7 @@ function cacados(){
 var newFunction = function(){
 	
 	
-	new Date();
+	return new Date();
 }
 
 var cc = 3;
