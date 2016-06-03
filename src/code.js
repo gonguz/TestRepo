@@ -15,3 +15,5 @@ var newFunction = function(){
 	
 	new Date();
 }
+
+var cc = 3;
