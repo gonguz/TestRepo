@@ -17,3 +17,11 @@ function caca(){
 	
 	console.log('tengo caca')
 }
+
+var newFunction = function(){
+	
+	
+	new Date();
+}
+
+var cc = 3;
